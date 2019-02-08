@@ -1,0 +1,160 @@
+model,release,cpu,gpu,ram,ram_type,storage,price_usd,price_hkd
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,128,1299,9988
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,128,,12328
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,128,,11548
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,128,,13888
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,11488
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,13828
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,13048
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,15388
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,12988
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,15328
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,14548
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,16888
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,15988
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,18328
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i5-7360U @ 2.30GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,17548
+MacBook Pro 13-inch model two Thunderbolt 3 ports,2017-06-06,Intel Core i7-7660U @ 2.50GHz,Intel Iris Plus 640,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,19888
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7267U @ 3.10GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i5-7287U @ 3.30GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 13-inch model with Touch Bar,2017-06-06,Intel Core i7-7567U @ 3.50GHz,Intel Iris Plus 650,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 555,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7700HQ @ 2.80GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7820HQ @ 2.90GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 15-inch model with Touch Bar,2017-06-06,Intel Core i7-7920HQ @ 3.10GHz,Radeon Pro 560,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,14388
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,16728
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,15948
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,256,,18288
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,15888
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,18228
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,17448
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,512,,19788
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,18888
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,21228
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,20448
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,1024,,22788
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,24888
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,8,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,27228
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i5-8259U @ 2.30GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,26448
+MacBook Pro 13-inch model with Touch Bar,2018-07-12,Intel Core i7-8559U @ 2.70GHz,Intel Iris Plus 655,16,2133 MHz PC3-17000 LPDDR3 SDRAM,2048,,28788
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,16,2400 MHz PC4-19200 DDR4 SDRAM,256,,18988
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,16,2401 MHz PC4-19200 DDR4 SDRAM,256,,21988
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,256,,19768
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2402 MHz PC4-19200 DDR4 SDRAM,256,,22768
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,32,2403 MHz PC4-19200 DDR4 SDRAM,256,,22108
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,32,2404 MHz PC4-19200 DDR4 SDRAM,256,,25108
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,32,2404 MHz PC4-19200 DDR4 SDRAM,256,,22888
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,256,,25888
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,16,2400 MHz PC4-19200 DDR4 SDRAM,512,,20548
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,16,2401 MHz PC4-19200 DDR4 SDRAM,512,,23548
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,512,,21328
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2402 MHz PC4-19200 DDR4 SDRAM,512,,24328
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,32,2403 MHz PC4-19200 DDR4 SDRAM,512,,23668
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,32,2404 MHz PC4-19200 DDR4 SDRAM,512,,26668
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,32,2404 MHz PC4-19200 DDR4 SDRAM,512,,24448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,512,,27448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,16,2400 MHz PC4-19200 DDR4 SDRAM,1024,,23668
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,16,2401 MHz PC4-19200 DDR4 SDRAM,1024,,26668
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,1024,,24448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2402 MHz PC4-19200 DDR4 SDRAM,1024,,27448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,32,2403 MHz PC4-19200 DDR4 SDRAM,1024,,26788
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,32,2404 MHz PC4-19200 DDR4 SDRAM,1024,,29788
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,32,2404 MHz PC4-19200 DDR4 SDRAM,1024,,27568
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,1024,,30568
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,16,2400 MHz PC4-19200 DDR4 SDRAM,2048,,29908
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,16,2401 MHz PC4-19200 DDR4 SDRAM,2048,,32908
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,2048,,30688
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2402 MHz PC4-19200 DDR4 SDRAM,2048,,33688
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,32,2403 MHz PC4-19200 DDR4 SDRAM,2048,,33028
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,32,2404 MHz PC4-19200 DDR4 SDRAM,2048,,36028
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,32,2404 MHz PC4-19200 DDR4 SDRAM,2048,,33808
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,2048,,36808
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,16,2400 MHz PC4-19200 DDR4 SDRAM,4096,,45508
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,16,2401 MHz PC4-19200 DDR4 SDRAM,4096,,48508
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,4096,,46288
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2402 MHz PC4-19200 DDR4 SDRAM,4096,,49288
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 555X,32,2403 MHz PC4-19200 DDR4 SDRAM,4096,,48628
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 555X,32,2404 MHz PC4-19200 DDR4 SDRAM,4096,,51628
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8750H @ 2.20GHz,Radeon Pro 560X,32,2404 MHz PC4-19200 DDR4 SDRAM,4096,,49408
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,4096,,52408
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,16,2400 MHz PC4-19200 DDR4 SDRAM,512,,21988
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,512,,24328
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,512,,23938
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,512,,26278
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,16,2403 MHz PC4-19200 DDR4 SDRAM,512,,24718
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,16,2404 MHz PC4-19200 DDR4 SDRAM,512,,27058
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,512,,25108
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,512,,27448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,32,2401 MHz PC4-19200 DDR4 SDRAM,512,,27058
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,32,2402 MHz PC4-19200 DDR4 SDRAM,512,,29398
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,512,,27838
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,512,,30178
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,16,2400 MHz PC4-19200 DDR4 SDRAM,1024,,25108
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,1024,,27448
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,1024,,27058
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,1024,,29398
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,16,2403 MHz PC4-19200 DDR4 SDRAM,1024,,27838
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,16,2404 MHz PC4-19200 DDR4 SDRAM,1024,,30178
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,1024,,28228
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,1024,,30568
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,32,2401 MHz PC4-19200 DDR4 SDRAM,1024,,30178
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,32,2402 MHz PC4-19200 DDR4 SDRAM,1024,,32518
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,1024,,30958
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,1024,,33298
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,16,2400 MHz PC4-19200 DDR4 SDRAM,2048,,31348
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,2048,,33688
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,2048,,33298
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,2048,,35638
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,16,2403 MHz PC4-19200 DDR4 SDRAM,2048,,34078
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,16,2404 MHz PC4-19200 DDR4 SDRAM,2048,,36418
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,2048,,34468
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,2048,,36808
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,32,2401 MHz PC4-19200 DDR4 SDRAM,2048,,36418
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,32,2402 MHz PC4-19200 DDR4 SDRAM,2048,,38758
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,2048,,37198
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,2048,,39538
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,16,2400 MHz PC4-19200 DDR4 SDRAM,4096,,46948
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,16,2401 MHz PC4-19200 DDR4 SDRAM,4096,,49288
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,4096,,48898
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,16,2402 MHz PC4-19200 DDR4 SDRAM,4096,,51238
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,16,2403 MHz PC4-19200 DDR4 SDRAM,4096,,49678
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,16,2404 MHz PC4-19200 DDR4 SDRAM,4096,,52018
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,4096,,50068
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro 560X,32,2405 MHz PC4-19200 DDR4 SDRAM,4096,,52408
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 16,32,2401 MHz PC4-19200 DDR4 SDRAM,4096,,52018
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 16,32,2402 MHz PC4-19200 DDR4 SDRAM,4096,,54358
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i7-8850H @ 2.60GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,4096,,52798
+MacBook Pro 15-inch model with Touch Bar,2018-07-12,Intel Core i9-8950HK @ 2.90GHz,Radeon Pro Vega 20,32,2403 MHz PC4-19200 DDR4 SDRAM,4096,,55138
